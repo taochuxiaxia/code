@@ -9,6 +9,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+template <typename T> void read(T &x){
+    
+}
 int n, m;
 int main(){
 
